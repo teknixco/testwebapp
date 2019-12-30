@@ -1,0 +1,10 @@
+/* YOUR FIRST WEB APP STYLESHEET
+Author: Victor Ekpo
+Organization: Decode Digital
+Date: December 30, 2019
+Project: UBUNTU x GIT x DOCKER
+ */
+
+/* GENERAL STYLES TO BE DEFINED */
+body background-color:red;color:white}
+
